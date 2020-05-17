@@ -1,0 +1,91 @@
+body{
+	background-color: rgb(0,0,0);
+	color: rgb(255,255,255);
+	font-family: serif;
+	}
+a:link{
+	color: yellow;
+}
+a:visited{
+	color: yellow;
+}
+a:hover{
+	color:blue;
+}
+h2{
+	font-size: 50px;
+	text-align: center;
+	text-transform: uppercase;
+}
+.home{
+	float: right;
+	margin-right: 30px
+}
+.def{
+	margin-left: 150px;
+	max-width: 950px;
+	margin-top:	85px
+}
+h3{
+	margin-left: 30px;
+	border-style: solid;
+	border-color: rgb(255,255,255);
+	border-width:1px;
+	padding: 3px;
+	margin-right: 1120px;
+}
+h3{
+	margin-left: 30px;
+	border-style: solid;
+	border-color: rgb(255,255,255);
+	border-width:1px;
+	padding: 3px;
+	margin-right: 1120px;
+}
+.c{
+	margin-left: 30px;
+	border-style: solid;
+	border-color: rgb(255,255,255);
+	border-width:1px;
+	padding: 3px;
+	margin-right: 1200px;
+	font-style:bold;
+}
+.elenco{
+	line-height: 35px
+}
+.d{
+	margin-left: 150px;
+	max-width: 1000px;
+}
+nav {
+  word-spacing: 100px;
+  background-color: rgb(0,0,0);
+  margin-left: 100px;
+  margin-right: 350px;
+	font-size: 15px;
+
+}
+nav li {
+  display: inline;
+  font-family: sans-serif;Arial Narrow
+}
+.ipertesto{
+	word-spacing: 5px;
+}
+nav a:link{
+	color: rgb(255,255,255);
+	text-decoration: none;
+}
+nav a:visited{
+	color: rgb(255,255,255);
+	text-decoration: none;
+}
+nav a:hover{
+	color: blue
+}
+.marker{
+  margin-left: 100px;
+  background-color: rgb(178,179,178);
+  line-break: 2px
+}

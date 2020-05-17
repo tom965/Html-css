@@ -1,0 +1,68 @@
+body{
+   background-color: rgb(0,0,0);
+   color: rgb(255,255,255);
+ }
+ a:link{
+   color: yellow;
+ }
+a:visited{
+  color: yellow;
+}
+a:hover{
+  color: blue
+}
+h2{
+  text-align: center;
+  font-size: 50px;
+  font-family: serif;
+  text-transform: uppercase;
+}
+.home{
+  float: right;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.def{
+  border-width: 4px;
+  border-style: inset;
+  border-color: white;
+  text-align: left;
+  max-width: 500px;
+  float: left;
+  margin-left: 200px;
+  line-height: 25px;
+  padding: 15px;
+}
+nav {
+  word-spacing: 100px;
+  background-color: rgb(0,0,0);
+  margin-left: 100px;
+  margin-right: 350px;
+	font-size: 15px;
+
+}
+nav li {
+  display: inline;
+  font-family: sans-serif;Arial Narrow
+
+}
+.current{
+  background-color: ;
+  margin-left: 100px;
+  background-color: rgb(178,179,178);
+}
+.ipertesto{
+	word-spacing: 5px;
+}
+nav a:link{
+	color: white;
+	text-decoration: none;
+}
+nav a:visited{
+	color: white;
+	text-decoration: none;
+}
+nav a:hover{
+	color: blue;
+	text-decoration: none;
+}

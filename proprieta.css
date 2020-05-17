@@ -1,0 +1,47 @@
+﻿body {
+    background-color: black;
+    color: white;
+    font-family: serif;}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;}
+.home {
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 30px;}
+a:link{
+    color: yellow;
+    text-decoration:none;}
+a:visited{
+    color: yellow;
+    text-decoration: none;}
+a:hover{
+    color: blue;
+    text-decoration: none;}
+.def{
+    width: 700px;
+    margin-left: 50px;}
+ol a:link{
+    color: white;
+    text-decoration: underline;}
+ol a:visited{
+    color: white;
+    text-decoration: underline;}
+ol a:hover{
+    color: yellow;
+    text-decoration: underline;}
+ol{
+    line-height: 30px;
+    list-style-type: decimal-leading-zero;
+    margin-left: 140px;
+    margin-top: 40px;
+}
+img.css {
+    height: 250px;
+    width: 150px; 
+    float: right;
+    margin-right: 00px;
+    margin-top: 100px;}
+
+

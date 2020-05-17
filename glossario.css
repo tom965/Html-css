@@ -1,0 +1,101 @@
+body{
+    background-color: black;
+  	color: white;
+	font-family: serif;
+}
+dl{
+	line-height:30px;
+}
+h1{
+	text-transform: uppercase;
+	text-align: center;
+}
+.current{
+  background-color: ;
+  margin-left: 100px;
+  background-color: rgb(178,179,178);
+}
+nav {
+  word-spacing: 100px;
+  background-color: rgb(0,0,0);
+  margin-left: 450px;
+  margin-right: 150px;
+}
+nav li {
+  display: inline;
+  font-family: sans-serif;Arial Narrow
+}
+.ipertesto{
+	word-spacing: 5px;
+}
+nav a:link{
+	color: rgb(255,255,255);
+	text-decoration: none;
+}
+nav a:visited{
+	color: rgb(255,255,255);
+	text-decoration: none;
+}
+nav a:hover{
+	color: blue;
+	text-decoration: none;
+}
+.zero{
+  border-width: 4px;
+  border-style: double;
+  margin-left: 40px;
+  padding: 10px;
+  width: 750px;
+  margin-top: 40px;
+  float: left;
+  height: 300px;
+  vertical-align: text-top;
+}
+.one{
+  border-width: 4px;
+  border-style: double;
+  margin-right: 40px;
+  padding: 10px;
+  width: 750px;
+  margin-top: 40px;
+  float: right;
+  height: 300px;
+}
+.serif{
+  font-family: Times, serif;
+}
+.sserif{
+  font-family: Arial;
+}
+dd{
+  line-height: 20px;
+}
+.two{
+  border-width: 4px;
+  border-style: double;
+  margin-left: 40px;
+  padding: 10px;
+  width: 750px;
+  margin-top: 40px;
+  float:left;
+  max-height: 300px;
+  clear: both;
+  align: left
+}
+.three{
+  border-width: 4px;
+  border-style: double;
+  margin-right: 40px;
+  padding: 10px;
+  width: 750px;
+  margin-top: 40px;
+  float: right;
+  height: 300px;
+  clear: top;
+  align: right;
+}
+img{
+  clear: both;
+  margin-left: 110px;
+  margin-top: 70px;
+}

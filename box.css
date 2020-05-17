@@ -1,0 +1,19 @@
+﻿body{
+    background-color: black;
+    color: white;
+    font-family: serif;}
+h1,p.title{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;}
+img{
+    float: right;
+    margin-right: 40px;
+    margin-top: 00px;}
+.def{
+    width: 700px;
+    margin-left: 100px;}
+.list{
+    margin-left: 50px;
+    width: 700px;
+    line-height: 30px;}

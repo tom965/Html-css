@@ -1,0 +1,31 @@
+﻿body {
+    background-color: black;
+    color: white;
+    font-family: serif;}
+h1{
+    text-align: center;
+    font-size: 50px;}
+img.home{
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.def{
+    width: 700px;
+    margin-left: 50px;}
+.color{
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 50px;}
+.title{
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;}
+.back{
+    float: right;
+    margin-right: 40px;
+    margin-top: 30px;}
+.list{
+    width: 800px;
+    margin-left: 50px;
+}

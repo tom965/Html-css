@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255);
+    font-family: serif;}
+h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;}
+a:link{
+    color: yellow;
+    text-decoration: none;}
+a:visited{
+    color: yellow;
+    text-decoration: none;}
+a:hover{
+    color: blue;
+    text-decoration: none;}
+.zero{
+    max-width: 700px;
+    margin-left: 50px;
+    margin-top: 30px;
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;}
+.one{
+     max-width: 300px;
+    margin-left: 200px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    padding: 10px;
+    margin-top: 30px;}
+.two {
+    max-width: 300px;
+    margin-left: 300px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    padding: 10px;
+    margin-top: 30px;}
+img{
+    float: right; 
+    margin-right: 60px;
+    margin-top: 0px;}
+h5{
+    float: right;
+    margin-right: 20px;
+    margin-top:160px;
+}

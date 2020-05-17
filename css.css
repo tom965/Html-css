@@ -1,0 +1,54 @@
+﻿body {
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255);
+    font-family: serif;}
+marquee {
+    text-transform: uppercase;
+    font-weight: bold;}
+a:link {
+    color: yellow;
+    text-decoration: none;}
+a:visited {
+    color: yellow;
+    text-decoration: none;}
+a:hover {
+    color: blue;
+    text-decoration: none;}
+.current {
+    margin-left: 100px;
+    background-color: rgb(178,179,178);}
+nav {
+    word-spacing: 100px;
+    background-color: rgb(0,0,0);
+    margin-left: 250px;
+    margin-right: 150px;
+    clear: both;}
+nav li {
+    display: inline;
+    font-family: sans-serif, Arial Narrow}
+.ipertesto {
+    word-spacing: 5px;}
+nav a:link {
+    color: rgb(255,255,255);
+    text-decoration: none;}
+nav a:visited {
+    color: rgb(255,255,255);
+    text-decoration: none;}
+nav a:hover {
+    color: blue;
+    text-decoration: none;}
+.zero{
+    max-width: 750px;
+    margin-left: 200px;
+    margin-top: 50px;}
+.home {
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 30px;}
+ul{
+    margin-top: 40px;
+    margin-left: 40px;}
+#example{
+    margin-top: 75px;
+    float: right;
+    margin-right: 175px;}    

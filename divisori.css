@@ -1,0 +1,54 @@
+body{
+  background-color: rgb(0,0,0);
+  color: rgb(255,255,255);
+  font-family: serif;
+}
+a:link{
+  color: yellow;
+}
+a:visited{
+  color: yellow;
+}
+a:hover{
+  color: blue;
+}
+h2{
+  font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.home{
+  float: right;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.def{
+  margin-top: 200px;
+}
+h4 {
+  text-transform: uppercase;
+  margin-left: 250px;
+  font-size: 25px;
+}
+table{
+  width: : 700px;
+}
+th,td{
+  padding: 10px
+}
+tr {
+border-bottom: 2px, rgb(255,255,255);
+  border-top: 2px, rgb(255,255,255);
+  border-style: solid;
+}
+.uso{
+  text-align: center;
+}
+.dark{
+  background-color: rgb(46, 51, 51)
+}
+.back{
+  float: right;
+  margin-bottom: 50px;
+  margin right: 300px;
+}
